@@ -1,6 +1,6 @@
 \# ROCA-AIAssistant: A Capsule Theory of Long-Lived Assistants with Orbital Salience
 
-**Anonymous Authors**  
+**Raul Diaz 
 **Affiliation**  
 **Contact**
 
